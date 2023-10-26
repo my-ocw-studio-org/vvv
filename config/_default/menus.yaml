@@ -1,0 +1,5 @@
+leftnav:
+- identifier: fceee535-7e8d-43df-bd24-5bf5394de865
+  name: video
+  pageRef: /video_galleries/video1
+  weight: 10
